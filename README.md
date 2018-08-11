@@ -16,7 +16,7 @@ If you have prior knowledge of statically typed languages, but Hindley-Milner do
 This is my diary of personal discoveries. I find myself explaining those things again and again to different people. I decided to write it down once and for all.
 
 ## Table of contents
-- Exhaustive check, useful for event processing, enum, unions or disjoint unions
+- [Exhaustive check, useful for event processing, enum, unions or disjoint unions](posts/exhaustive-check.md)
 - Types and proofs
 - IO validation and what it has to do with dynamic types, JSON validation, JSON decoder
 - Immutability and types
