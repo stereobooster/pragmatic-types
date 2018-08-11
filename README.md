@@ -1,5 +1,7 @@
 # Practical types
 
+[![Tweet][twitter-badge]][twitter]
+
 ## Introduction
 
 ### What
@@ -34,3 +36,6 @@ To be done
 
 ## Contribution
 Ideas, questions, and fixes are welcome. Sharing on social networks is also a big help. Thank you.
+
+[twitter]: https://twitter.com/intent/tweet?text=Check%20out%20small%20practical%20guide%20on%20Flow%20and%20TypeScript%20for%20JavaScript%20developers%0A%20by%20%40stereobooster%20https%3A%2F%2Fgithub.com%2Fstereobooster%2Fpractical-types%20%F0%9F%91%8D
+[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/stereobooster/react-ideal-image.svg?style=social
