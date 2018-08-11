@@ -17,12 +17,12 @@ This is my diary of personal discoveries. I find myself explaining those things 
 
 ## Table of contents
 - [Exhaustive check, useful for event processing, enum, unions or disjoint unions](posts/exhaustive-check.md)
+- [Opaque types and how it could save Mars Climate Orbiter](posts/opaque-types.md)
+- [IO validation and what it has to do with dynamic types, JSON validation, JSON decoder](posts/io-validation.md)
 - Types and proofs
-- IO validation and what it has to do with dynamic types, JSON validation, JSON decoder
 - Immutability and types
 - Why are JavaScript promises unsound?
 - Make impossible states impossible
-- [Opaque types and how it could save Mars Climate Orbiter](posts/opaque-types.md)
 - Terminology: untyped, dynamically-, statically-, gradually-typed
 - Terminology: sound and unsound vs complete and incomplete
 - What are the types?
