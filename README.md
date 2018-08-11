@@ -22,7 +22,7 @@ This is my diary of personal discoveries. I find myself explaining those things 
 - Immutability and types
 - Why are JavaScript promises unsound?
 - Make impossible states impossible
-- Opaque type and how it could save Mars Climate Orbiter 
+- [Opaque types and how it could save Mars Climate Orbiter](posts/opaque-types.md)
 - Terminology: untyped, dynamically-, statically-, gradually-typed
 - Terminology: sound and unsound vs complete and incomplete
 - What are the types?
