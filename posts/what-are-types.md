@@ -46,11 +46,11 @@ As you can see types and type errors are not computer specific thing. Types exis
 Now let's see if our ideas about types hold true in the computer world.
 
 ```
-Cars: 🚙, 🚌, 🚜.    → Number
-Fruits: 🍋, 🍐, 🍓. → String
+Cars: 🚙, 🚌, 🚜.     → Number
+Fruits: 🍋, 🍐, 🍓.   → String
 
 To drive 🚙            → To multiply numbers
-To eat 🍋                → To concatenate strings
+To eat 🍋              → To concatenate strings
 ```
 
 [Flow](https://flow.org/try/#0EQQ2AICpwRiA)
