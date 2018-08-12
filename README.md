@@ -18,17 +18,17 @@ If you have prior knowledge of statically typed languages, but Hindley-Milner do
 This is my diary of personal discoveries. I find myself explaining those things again and again to different people. I decided to write it down once and for all.
 
 ## Table of contents
-- [Exhaustive check useful for event processing, enums, unions or disjoint unions](posts/exhaustive-check.md)
+- [Exhaustive check and why it is useful for event processing, enums, unions or disjoint unions](posts/exhaustive-check.md)
 - [Opaque types and how they could have saved Mars Climate Orbiter](posts/opaque-types.md)
 - [IO validation or how to make untyped JSON API responses work with static types](posts/io-validation.md)
+- [What are types?](posts/what-are-types.md)
+- [Dynamically-, statically-, gradually-, weakly-, strongly- and un-typed languages](dynamic-static-gradual-untyped.md)
+- [Is JavaScript untyped language?](posts/is-javascript-an-untyped-language.md)
 - Types and proofs
 - Immutability and types
 - Why are JavaScript promises unsound?
 - Make impossible states impossible
-- Terminology: untyped, dynamically-, statically-, gradually-typed
 - Terminology: sound and unsound vs complete and incomplete
-- What are the types?
-- Is JavaScript untyped language?
 - To be continued...
 
 ## Inspiration
