@@ -4,7 +4,9 @@ The idea of this post is to give you a framework to reason about types (in progr
 [Also, some mathematicians argue there is no single definition of the types and this is good.](http://tomasp.net/academic/papers/against-types/)
 
 ## Definition
-Type is a collection of items, often having some common properties, structure and operations permitted for this type.
+**Type is a collection of items, often having some common properties, structure and operations permitted for this type**.
+
+I intentionally use the word "collection" instead of "set", because the set has the exact meaning in mathematics.
 
 For example 
 
@@ -107,7 +109,7 @@ As soon you get one value somewhere in the middle of a calculation, it will mani
 Those values hard to debug, because the result of the error can be found far away from the place where the error happened and there are no traces left. This is why it is highly discouraged to use it.
 
 ## What is type checking? 
-The answer is trivial - this is when types get checked, this is when you check that given thing is a member of the collection or not, to prevent errors as described above.
+The answer is trivial - this is when you **check that given thing is a member of the collection or not, to prevent nonsense errors, like applying an operation to the wrong type value.**
 
 ### Type checking "performed by a system"
 ```
