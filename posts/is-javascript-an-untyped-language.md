@@ -53,7 +53,7 @@ VM308:1 Uncaught TypeError: undefined is not a function
     at <anonymous>:1:1
 ```
 
-When you try to access a property of `undefined` or `null` value. 
+When you try to access a property of `undefined` or `null` value.
 Other values considered to be an object and if you access an inexisting value of an object you will get `undefined` instead of type error. This is hidden type error.
 ```js
 null.test
@@ -92,6 +92,8 @@ JS have bugs in type operators which are preserved until now for compatibility r
 ```js
 typeof null
 "object"
+typeof document.all
+"undefined"
 ```
 
 Bugs in type operators and obscure coercion rules make an impression that there is no way such language have types.

@@ -24,9 +24,13 @@ This is my diary of personal discoveries. I find myself explaining those things 
 - [What are types?](posts/what-are-types.md)
 - [Dynamically-, statically-, gradually-, weakly-, strongly- and un-typed languages](dynamic-static-gradual-untyped.md)
 - [Is JavaScript untyped language?](posts/is-javascript-an-untyped-language.md)
+- Redux and impossible states
+- Redux and impossible state transitions or FSM
+- Redux and side effects
+- Maybe type
 - Types and proofs
 - Immutability and types
-- Why are JavaScript promises unsound?
+- Why is JavaScript Promise unsound?
 - Make impossible states impossible
 - Terminology: sound and unsound vs complete and incomplete
 - To be continued...
