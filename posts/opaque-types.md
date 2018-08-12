@@ -1,6 +1,7 @@
 # Opaque types
 
 > The 'root cause' of the loss of the spacecraft was the failed translation of English units into metric units in a segment of ground-based, navigation-related mission software, as NASA has previously announced.
+>
 > -- [source](https://mars.jpl.nasa.gov/msp98/news/mco991110.html)
 
 It sounds almost unrealistic - a software bug led to spacecraft loss. But this is true developer forgot to translate one type of units into another type of units. 
