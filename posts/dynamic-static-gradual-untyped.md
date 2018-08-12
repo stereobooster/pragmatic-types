@@ -36,6 +36,7 @@ Untyped language - is the language with the only one type (or language without v
 > (2) S-expressions in pure Lisp
 > (3) λ-expressions in the λ-calculus
 > (4) Sets in set theory
+>
 > -- [On Understanding Types, Data Abstraction, and Polymorphism](http://lucacardelli.name/Papers/OnUnderstanding.A4.pdf)
 
 ## Weak and strong type system
