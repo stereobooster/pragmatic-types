@@ -107,7 +107,7 @@ As soon you get one value somewhere in the middle of a calculation, it will mani
 Those values hard to debug, because the result of the error can be found far away from the place where the error happened and there are no traces left. This is why it is highly discouraged to use it.
 
 ## What is type checking? 
-The answer is trivial - this is when types get checked.
+The answer is trivial - this is when types get checked, this is when you check that given thing is a member of the collection or not, to prevent errors as described above.
 
 ### Type checking "performed by a system"
 ```
