@@ -23,11 +23,11 @@ This is my diary of personal discoveries. I find myself explaining those things 
 - [IO validation or how to make untyped JSON API responses work with static types](posts/io-validation.md)
 - [What are types?](posts/what-are-types.md)
 - [Dynamically-, statically-, gradually-, weakly-, strongly- and un-typed languages](dynamic-static-gradual-untyped.md)
-- [Is JavaScript untyped language?](posts/is-javascript-an-untyped-language.md)
+- [Is JavaScript an untyped language?](posts/is-javascript-an-untyped-language.md)
 - Redux and impossible states
 - Redux and impossible state transitions or FSM
 - Redux and side effects
-- Maybe type
+- Option type or maybe monad
 - Types and proofs
 - Immutability and types
 - Why is JavaScript Promise unsound?
@@ -35,8 +35,11 @@ This is my diary of personal discoveries. I find myself explaining those things 
 - Terminology: sound and unsound vs complete and incomplete
 - To be continued...
 
-## Inspiration
-To be done
+## Similar works
+
+- [To type or not to type: quantifying detectable bugs in JavaScript](https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/) Gao et al., ICSE 2017
+- [Type systems will make you a better JavaScript programmer](https://jaredforsyth.com/type-systems-js-dev/#/) by Jared Forsyth 2017
+- [Types, and Why You Should Care](https://www.youtube.com/watch?time_continue=1&v=0arFPIQatCU)
 
 ## Contribution
 Ideas, questions, and fixes are welcome. Sharing on social networks is also a big help. Thank you.
