@@ -24,10 +24,10 @@ This is my diary of personal discoveries. I find myself explaining those things 
 - [What are types?](posts/what-are-types.md)
 - [Dynamically-, statically-, gradually-, weakly-, strongly- and un-typed languages](dynamic-static-gradual-untyped.md)
 - [Is JavaScript an untyped language?](posts/is-javascript-an-untyped-language.md)
+- [Type system vs null](posts/type-system-vs-null.md)
 - Redux and impossible states
 - Redux and impossible state transitions or FSM
 - Redux and side effects
-- Option type or maybe monad
 - Types and proofs
 - Immutability and types
 - Why is JavaScript Promise unsound?
