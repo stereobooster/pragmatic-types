@@ -80,7 +80,11 @@ Coercion can be convenient when you do not need explicitly convert from integers
 "1"+[] // result "1", should be type error
 ```
 
-JS tries to hide type errors so hard, that it resulted in obscure coercion rules: https://twitter.com/angealbertini/status/979254093846859777
+JS tries to hide type errors so hard, that it resulted in obscure coercion rules.
+
+![](is-javascript-an-untyped-language/holy-trinity.jpg?raw=true)
+
+[source](https://twitter.com/angealbertini/status/979254093846859777)
 
 There a lot of research on that matter:
 - [Wat](https://www.destroyallsoftware.com/talks/wat), A lightning talk by Gary Bernhardt from CodeMash 2012. About coercions in JS
