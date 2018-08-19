@@ -22,17 +22,19 @@ This is my diary of personal discoveries. I find myself explaining those things 
 - [Opaque types and how they could have saved Mars Climate Orbiter](posts/opaque-types.md)
 - [IO validation or how to make untyped JSON API responses work with static types](posts/io-validation.md)
 - [What are types?](posts/what-are-types.md)
-- [Dynamically-, statically-, gradually-, weakly-, strongly- and un-typed languages](dynamic-static-gradual-untyped.md)
+- [Dynamically-, statically-, gradually-, weakly-, strongly- and un-typed languages](posts/dynamic-static-gradual-untyped.md)
 - [Is JavaScript an untyped language?](posts/is-javascript-an-untyped-language.md)
 - [Type system vs null](posts/type-system-vs-null.md)
 - [Making Impossible States Impossible](posts/making-impossible-states-impossible.md)
+- [Immutability and type system](posts/immutability-and-type-system.md)
+- Classes, types, posets, structural and nominal subtyping, Liskov substitution principle
 - Redux and impossible states
 - Redux and impossible state transitions or FSM
 - Redux and side effects
 - Types and proofs
-- Immutability and types
-- Why is JavaScript Promise unsound?
-- Terminology: sound and unsound vs complete and incomplete
+- Why JavaScript Promise is unsound?
+- Terminology: soundness, completeness, totality, decidability
+- Rosetta stone, Curry–Howard correspondence
 - To be continued...
 
 ## Similar works
