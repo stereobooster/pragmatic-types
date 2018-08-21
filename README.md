@@ -1,4 +1,4 @@
-# Practical types
+# Pragmatic types
 
 [![Tweet][twitter-badge]][twitter]
 
@@ -20,14 +20,14 @@ This is my diary of personal discoveries. I find myself explaining those things 
 ## Table of contents
 - [Exhaustive check and why it is useful for event processing, enums, unions or disjoint unions](posts/exhaustive-check.md)
 - [Opaque types and how they could have saved Mars Climate Orbiter](posts/opaque-types.md)
-- [IO validation or how to make untyped JSON API responses work with static types](posts/io-validation.md)
+- [IO validation or how to handle JSON-based APIs in statically typed language](posts/io-validation.md)
 - [What are types?](posts/what-are-types.md)
 - [Dynamically-, statically-, gradually-, weakly-, strongly- and un-typed languages](posts/dynamic-static-gradual-untyped.md)
 - [Is JavaScript an untyped language?](posts/is-javascript-an-untyped-language.md)
 - [Type system vs null](posts/type-system-vs-null.md)
 - [Making Impossible States Impossible](posts/making-impossible-states-impossible.md)
 - [Immutability and type system](posts/immutability-and-type-system.md)
-- Classes, types, posets, structural and nominal subtyping, Liskov substitution principle
+- Classes, types, sets, structural and nominal subtyping, Liskov substitution principle
 - Redux and impossible states
 - Redux and impossible state transitions or FSM
 - Redux and side effects

@@ -1,4 +1,5 @@
 # What are types?
+
 The idea of this post is to give you a framework to reason about types (in programming), I'm not gonna try to give an exhaustive and full mathematically correct definition of types.
 
 [Also, some mathematicians argue there is no single definition of the types and this is good.](http://tomasp.net/academic/papers/against-types/)
@@ -8,10 +9,10 @@ The idea of this post is to give you a framework to reason about types (in progr
 
 I intentionally use the word "collection" instead of "set", because the set has the exact meaning in mathematics.
 
-For example 
+For example
 
 ```
-Cars: 🚙, 🚌, 🚜. 
+Cars: 🚙, 🚌, 🚜.
 Fruits: 🍋, 🍐, 🍓.
 ```
 
@@ -88,7 +89,7 @@ NaN stands for not a number. [This is how IEEE (Institute of Electrical and Elec
 ## NaN and how to handle errors
 There are two ways to handle errors from a machine point of view:
 
-1. Raise exception. 
+1. Raise exception.
 
 CPU will stop the execution of current instructions and jump to error handling function
 
@@ -108,7 +109,7 @@ As soon you get one value somewhere in the middle of a calculation, it will mani
 
 Those values hard to debug, because the result of the error can be found far away from the place where the error happened and there are no traces left. This is why it is highly discouraged to use it.
 
-## What is type checking? 
+## What is type checking?
 The answer is trivial - this is when you **check that given thing is a member of the collection or not, to prevent nonsense errors, like applying an operation to the wrong type value.**
 
 ### Type checking "performed by a system"
