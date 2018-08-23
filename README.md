@@ -42,6 +42,7 @@ This is my diary of personal discoveries. I find myself explaining those things 
 - [To type or not to type: quantifying detectable bugs in JavaScript](https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/) Gao et al., ICSE 2017
 - [Type systems will make you a better JavaScript programmer](https://jaredforsyth.com/type-systems-js-dev/#/) by Jared Forsyth 2017
 - [Types, and Why You Should Care](https://www.youtube.com/watch?time_continue=1&v=0arFPIQatCU)
+- [Lauren Tan Swipe Left, Uncaught TypeError Learning to Love Type Systems](https://youtu.be/y3uXazpAdwo)
 
 ## Contribution
 Ideas, questions, and fixes are welcome. Sharing on social networks is also a big help. Thank you.
