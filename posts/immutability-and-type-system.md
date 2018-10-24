@@ -1,3 +1,5 @@
+This is wrong article, it needs to be fixed
+
 # Immutability and type system
 
 Immutability can be useful. First of all, it is easier to work with immutable objects when you to share them between concurrent or parallel processes. Second, if you agree to use immutable objects it is much easier to do a comparison, it is enough to compare pointers.
